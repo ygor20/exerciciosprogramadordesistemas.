@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{74A66823-70AE-416E-AC20-77405E47B939}</ProjectGuid>
+    <ProjectGuid>{FB102679-0EE0-4C08-9784-BF712A3F2B18}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>maioroumenorquedez</RootNamespace>
-    <AssemblyName>maioroumenorquedez</AssemblyName>
+    <RootNamespace>calculadorasimples</RootNamespace>
+    <AssemblyName>calculadorasimples</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

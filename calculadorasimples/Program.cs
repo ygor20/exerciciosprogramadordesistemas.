@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace maioroumenorquedez
+namespace calculadorasimples
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace maioroumenorquedez
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmMaiorMenor());
+            Application.Run(new frmCalculadoraSimples());
         }
     }
 }

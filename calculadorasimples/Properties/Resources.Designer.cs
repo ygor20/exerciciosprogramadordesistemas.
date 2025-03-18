@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace maioroumenorquedez.Properties
+namespace calculadorasimples.Properties
 {
     /// <summary>
     ///   Uma classe de recurso fortemente tipados, para pesquisar cadeias de caracteres localizadas etc.
@@ -43,7 +43,7 @@ namespace maioroumenorquedez.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("maioroumenorquedez.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("calculadorasimples.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

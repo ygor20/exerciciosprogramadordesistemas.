@@ -24,7 +24,7 @@ namespace maioroumenorquedez
 
                 if (numero > 10)
                 {
-                    MessageBox.Show("O número é maior/igual a 10.", "Resultado");
+                    MessageBox.Show("O número é maior que 10.", "Resultado");
                 }
 
                 else if (numero < 10)

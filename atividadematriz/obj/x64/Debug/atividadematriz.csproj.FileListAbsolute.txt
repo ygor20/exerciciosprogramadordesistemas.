@@ -1,0 +1,10 @@
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\bin\x64\Debug\atividadematriz.exe.config
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\bin\x64\Debug\atividadematriz.exe
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\bin\x64\Debug\atividadematriz.pdb
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.csproj.AssemblyReference.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.Form1.resources
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.Properties.Resources.resources
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.csproj.GenerateResource.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.csproj.CoreCompileInputs.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.exe
+C:\Users\ygor.aoliveira\source\Programadordesistemas\atividadematriz\obj\x64\Debug\atividadematriz.pdb
